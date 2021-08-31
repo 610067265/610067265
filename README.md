@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @610067265
 - 👀 I’m interested in advancing my coding skills
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on whatever projects I can help in
 - 📫 How to reach me: lizbeth.v@icloud.com
 
