@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @610067265
+- 👋 Hi, I’m Lizbeth Solis.
 - 👀 I’m interested in advancing my coding skills
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on whatever projects I can help in
